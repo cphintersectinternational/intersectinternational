@@ -2,6 +2,3 @@ streamlit
 openai
 python-docx
 pandas
-io
-re
-json
